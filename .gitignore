@@ -1,0 +1,7 @@
+.bloop/
+.metals/
+null/
+target/
+src/main/resources/data/*
+!src/main/resources/data/movies.json
+!src/main/resources/data/sample-data/
